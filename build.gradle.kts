@@ -8,7 +8,7 @@ plugins {
 }
 
 group = "com.noteMe"
-version = "0.2.5"
+version = "0.2.6"
 
 application {
     mainClassName = "io.ktor.server.netty.EngineMain"
